@@ -1,0 +1,12 @@
+.root{
+-fx-background-image: url("https://sun9-17.userapi.com/9P8kGTTm-TxggTef9we4nMS0FLpbZwjBLEs2Tw/9cmqZhnH7NM.jpg");
+-fx-background-size: 100% 100%;
+}
+
+.button:hover{
+-fx-font-size: 13px;
+
+}
+.text-area{
+-fx-control-inner-background: aqua;
+}
